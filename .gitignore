@@ -1,0 +1,7 @@
+node_modules
+.tmp
+.log
+
+# Excluding idea, but commiting run configs
+.idea/*
+.idea/runConfigurations/Default_test_run_edit_to_run_and_debug_tests_.xml

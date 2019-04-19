@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://uk.integration.thomascook.io/",
+  "headers": {
+    "x-site-id" : "uk",
+    "x-site-language" : "en"
+  }
+}
